@@ -45,7 +45,7 @@ module.exports = function (context, req) {
           });
       }
     //context.res.json("hello");
-    
+    //context.res.json
 };
 
 
